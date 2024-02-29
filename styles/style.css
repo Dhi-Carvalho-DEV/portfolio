@@ -67,6 +67,10 @@ body {
   font-family: var(--fonte-secundaria);
 }
 
+.apresentacao__conteudo__texto li a {
+  text-decoration: none;
+}
+
 .apresentacao__links {
   display: flex;
   flex-direction: column;
